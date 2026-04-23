@@ -55,6 +55,3 @@ export default function App() {
     </div>
   );
 }
-
-
-testing auto update
